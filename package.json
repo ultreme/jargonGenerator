@@ -1,0 +1,20 @@
+{
+  "name": "jargon-generator",
+  "version": "1.0.0",
+  "description": "A generator of sentences that uses Jargon. Usefull to remind your interlocutor that you have skills and a lot of complicated knowledges that justifies that he depends on you.",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultreme/jargonGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultreme/jargonGenerator/issues"
+  },
+  "homepage": "https://github.com/ultreme/jargonGenerator#readme"
+}
