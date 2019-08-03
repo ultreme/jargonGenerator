@@ -373,7 +373,7 @@ function showAllSentences(pPatterns) {
 ** PATTERN EXAMPLES ! LET'S PLAY !
 */
 var patterns = [];			//array containing all patterns to pick
-var tempPattern = "";		//empty string to generate complex patterns before pushing it into patterns[]
+var tempPattern = "";		//empty string to generate complex sentence before pushing it into patterns[]
 var randomNb = 0;			//var used to stock random integer to generate patterns with randoms listings
 
 /*
