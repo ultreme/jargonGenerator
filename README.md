@@ -3,5 +3,3 @@ A generator of sentences that uses Jargon. Usefull to remind your interlocutor t
 
 See the result here:
 https://codepen.io/somebodylikeeverybody/pen/JgWora
-
-Voila.
